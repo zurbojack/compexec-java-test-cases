@@ -1,5 +1,6 @@
 # Module to compile and execute Java test cases
-Within this repository we implement a software module which takes care of compiling and executing Java test cases. The module should be included in an educational game that will aim to teach testing to players according to the ENACTEST project (European iNnovation AllianCe for TESting educaTion). The project was carried out in collaboration with Antonio Russo e Francescopaolo Lecce.
+Within this repository we implement a software module which takes care of compiling and executing Java test cases. The module should be included in an educational game that will aim to teach testing to players according to the ENACTEST project (European iNnovation AllianCe for TESting educaTion). The project was carried out in collaboration with Antonio Russo e Francescopaolo Lecce.  
+The repository, in addition to all the code, contains complete documentation in Italian with also descriptive diagrams of the software.
 
 ### Technologies used
 The module is build using Java with different framework:
