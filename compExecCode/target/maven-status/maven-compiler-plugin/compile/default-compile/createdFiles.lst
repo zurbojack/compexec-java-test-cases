@@ -1,0 +1,6 @@
+com\T07\compExec\api\model\UrlClassToTest.class
+com\T07\compExec\service\Manager.class
+com\T07\compExec\api\model\CompExecResults.class
+com\T07\compExec\CompExecApplication.class
+com\T07\compExec\api\controller\CompExecController.class
+com\T07\compExec\service\CompExecService.class
